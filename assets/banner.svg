@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Aadhi Narayanan R — Full-Stack Developer">
+  <defs>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E8833A" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#E8833A" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" fill="#0d1117"/>
+  <rect width="1200" height="260" fill="url(#glow)"/>
+  <rect x="60" y="58" width="3" height="46" fill="#E8833A"/>
+  <text x="84" y="92" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="42" font-weight="600" fill="#f0f6fc">Aadhi Narayanan R</text>
+  <text x="84" y="132" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="21" fill="#E8833A">Full-Stack Developer | AI-Powered Applications</text>
+  <line x1="60" y1="176" x2="1140" y2="176" stroke="#30363d" stroke-width="1"/>
+  <text x="60" y="214" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="17" fill="#8b949e">A S CodeLabs</text>
+  <text x="1140" y="214" text-anchor="end" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="17" fill="#8b949e">github.com/7sthunder</text>
+</svg>
