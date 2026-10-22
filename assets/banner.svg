@@ -1,16 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Aadhi Narayanan R — Full-Stack Developer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Aadhi Narayanan R - Full-Stack Developer - AI-Powered Applications">
   <defs>
-    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#E8833A" stop-opacity="0.16"/>
-      <stop offset="1" stop-color="#E8833A" stop-opacity="0"/>
+    <linearGradient id="edge" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#E8833A"/>
+      <stop offset="1" stop-color="#E8833A" stop-opacity="0.15"/>
     </linearGradient>
+    <radialGradient id="glow" cx="0.1" cy="0.9" r="0.65">
+      <stop offset="0" stop-color="#E8833A" stop-opacity="0.13"/>
+      <stop offset="1" stop-color="#E8833A" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#30363d" stroke-width="1" stroke-opacity="0.4"/>
+    </pattern>
   </defs>
-  <rect width="1200" height="260" fill="#0d1117"/>
-  <rect width="1200" height="260" fill="url(#glow)"/>
-  <rect x="60" y="58" width="3" height="46" fill="#E8833A"/>
-  <text x="84" y="92" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="42" font-weight="600" fill="#f0f6fc">Aadhi Narayanan R</text>
-  <text x="84" y="132" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="21" fill="#E8833A">Full-Stack Developer | AI-Powered Applications</text>
-  <line x1="60" y1="176" x2="1140" y2="176" stroke="#30363d" stroke-width="1"/>
-  <text x="60" y="214" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="17" fill="#8b949e">A S CodeLabs</text>
-  <text x="1140" y="214" text-anchor="end" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="17" fill="#8b949e">github.com/7sthunder</text>
+
+  <rect width="1200" height="340" fill="#0d1117"/>
+  <rect width="1200" height="340" fill="url(#grid)" opacity="0.55"/>
+  <rect width="1200" height="340" fill="url(#glow)"/>
+  <rect x="0" y="0" width="3" height="340" fill="url(#edge)"/>
+
+  <rect x="64" y="62" width="46" height="3" fill="#E8833A"/>
+
+  <text x="64" y="118" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="43" font-weight="700" letter-spacing="1.5" fill="#f0f6fc">AADHI NARAYANAN R</text>
+  <text x="64" y="160" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="600" letter-spacing="4.5" fill="#E8833A">FULL-STACK DEVELOPER</text>
+  <text x="64" y="190" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" letter-spacing="4" fill="#8b949e">AI-POWERED APPLICATIONS</text>
+
+  <line x1="64" y1="218" x2="660" y2="218" stroke="#30363d" stroke-width="1"/>
+
+  <text x="64" y="254" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" fill="#8b949e">Building practical, reliable software - where AI stays inside its bounds</text>
+  <text x="64" y="280" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" fill="#8b949e">and every result carries the evidence behind it.</text>
+
+  <g>
+    <rect x="744" y="52" width="392" height="236" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <circle cx="766" cy="74" r="4.5" fill="#30363d"/>
+    <circle cx="782" cy="74" r="4.5" fill="#30363d"/>
+    <circle cx="798" cy="74" r="4.5" fill="#E8833A" fill-opacity="0.8"/>
+    <line x1="744" y1="96" x2="1136" y2="96" stroke="#30363d" stroke-width="1"/>
+    <text x="1116" y="79" text-anchor="end" font-family="Consolas,'DejaVu Sans Mono','Courier New',monospace" font-size="11" fill="#6e7681">stack.ts</text>
+
+    <text x="768" y="130" font-family="Consolas,'DejaVu Sans Mono','Courier New',monospace" font-size="14" xml:space="preserve"><tspan fill="#E8833A">const</tspan><tspan fill="#79c0ff"> focus</tspan><tspan fill="#8b949e"> = {</tspan></text>
+    <text x="768" y="156" font-family="Consolas,'DejaVu Sans Mono','Courier New',monospace" font-size="14" xml:space="preserve"><tspan fill="#79c0ff">  frontend</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#a5d6ff">"react"</tspan><tspan fill="#8b949e">,</tspan></text>
+    <text x="768" y="182" font-family="Consolas,'DejaVu Sans Mono','Courier New',monospace" font-size="14" xml:space="preserve"><tspan fill="#79c0ff">  backend</tspan><tspan fill="#8b949e">:  </tspan><tspan fill="#a5d6ff">"trpc"</tspan><tspan fill="#8b949e">,</tspan></text>
+    <text x="768" y="208" font-family="Consolas,'DejaVu Sans Mono','Courier New',monospace" font-size="14" xml:space="preserve"><tspan fill="#79c0ff">  data</tspan><tspan fill="#8b949e">:     </tspan><tspan fill="#a5d6ff">"postgres"</tspan><tspan fill="#8b949e">,</tspan></text>
+    <text x="768" y="234" font-family="Consolas,'DejaVu Sans Mono','Courier New',monospace" font-size="14" xml:space="preserve"><tspan fill="#79c0ff">  ai</tspan><tspan fill="#8b949e">:       </tspan><tspan fill="#a5d6ff">"bounded"</tspan></text>
+    <text x="768" y="260" font-family="Consolas,'DejaVu Sans Mono','Courier New',monospace" font-size="14" fill="#8b949e">};</text>
+  </g>
 </svg>
