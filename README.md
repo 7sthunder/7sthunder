@@ -48,15 +48,6 @@ Production work built with other people at **A S CodeLabs** and with collaborato
 | **STAMP**<br>[stamp-crm.ascodelabs.com](http://stamp-crm.ascodelabs.com/) | 21 commits on a print-shop production manager. Cut the UI over to the real tRPC client and deleted the mock layer, added the tRPC service and file-upload path, wired SSE notifications with shared domain rules and CI, and configured the Cloudflare Workers deployment with R2. | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white" alt="React"><br><img src="https://img.shields.io/badge/tRPC-E10098?style=flat-square&logo=trpc&logoColor=white" alt="tRPC"><br><img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=white" alt="Drizzle ORM"><br><img src="https://img.shields.io/badge/Cloudflare_D1-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare D1"><br><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"><br><img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Workers"><br><img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"><br><img src="https://img.shields.io/badge/Playwright-24292F?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"><br><img src="https://img.shields.io/badge/Zod-3068B8?style=flat-square&logo=zod&logoColor=white" alt="Zod"> |
 | **[HAWKINS: NITRO RUN](https://github.com/sruthideepa82-cpu/Hawkinrace)**<br>Browser racing game | 10 commits on the gameplay layer — a chase camera with a rotatable minimap, wall-collision response, race state transitions, per-page routing so a race no longer restarts at the chequered flag, and the track set that made the extra courses raceable. | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white" alt="React"><br><img src="https://img.shields.io/badge/Phaser-24292F?style=flat-square" alt="Phaser"><br><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"><br><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot"><br><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"><br><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> |
 
-## Contact
-
-| Channel | Link |
-| --- | --- |
-| GitHub | [github.com/7sthunder](https://github.com/7sthunder) |
-| Portfolio | [7sthunder.github.io/portfolio](https://7sthunder.github.io/portfolio/) |
-| LinkedIn | [linkedin.com/in/aadhi-narayanan-80093332](https://linkedin.com/in/aadhi-narayanan-80093332) |
-| Email | [aadhinarayanan23r@gmail.com](mailto:aadhinarayanan23r@gmail.com) |
-
 ## GitHub Activity
 
 <p align="center">
@@ -67,3 +58,12 @@ Production work built with other people at **A S CodeLabs** and with collaborato
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=7sthunder&hide_border=true&background=0d1117&stroke=E8833A&ring=E8833A&fire=E8833A&currStreakNum=E8833A&sideNums=c9d1d9&dates=8fa3b8" alt="Contribution streak" height="165">
 </p>
+
+## Contact
+
+| Channel | Link |
+| --- | --- |
+| GitHub | [github.com/7sthunder](https://github.com/7sthunder) |
+| Portfolio | [7sthunder.github.io/portfolio](https://7sthunder.github.io/portfolio/) |
+| LinkedIn | [linkedin.com/in/aadhi-narayanan-80093332](https://linkedin.com/in/aadhi-narayanan-80093332) |
+| Email | [aadhinarayanan23r@gmail.com](mailto:aadhinarayanan23r@gmail.com) |
