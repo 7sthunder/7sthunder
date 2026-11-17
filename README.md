@@ -60,10 +60,10 @@ Production work built with other people at **A S CodeLabs** and with collaborato
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=7sthunder&show_icons=true&hide_border=true&bg_color=0d1117&fg_color=c9d1d9&accent_color=E8833A&border=E8833A&title_color=E8833A&rank=1" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=7sthunder&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&fg_color=c9d1d9&accent_color=E8833A&border=E8833A" alt="Top languages" height="165">
+  <img src="https://github-stats-extended.vercel.app/api?username=7sthunder&show_icons=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&accent_color=E8833A&border_color=E8833A&title_color=E8833A&rank_icon=github" alt="GitHub stats" height="165">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=7sthunder&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&text_color=c9d1d9&accent_color=E8833A&border_color=E8833A&title_color=E8833A" alt="Top languages" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=7sthunder&hide_border=true&background=0d1117&stroke=E8833A&ring=E8833A&fire=E8833A&currStreakNum=E8833A&sideNums=c9d1d9&dates=8fa3b8" alt="Contribution streak" height="165">
+  <img src="https://streak-stats.demolab.com?user=7sthunder&hide_border=true&background=0d1117&stroke=E8833A&ring=E8833A&fire=E8833A&currStreakNum=E8833A&sideNums=c9d1d9&dates=8fa3b8" alt="Contribution streak" height="165">
 </p>
